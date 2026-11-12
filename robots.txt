@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /_fonte/
+Disallow: /seo/
+Disallow: /entregaveis/
+
+Sitemap: https://pastelariafuji.com.br/sitemap.xml
